@@ -169,7 +169,7 @@ sentiment-analysis-rnn
 
 Clone the repository:
 
-git clone https://github.com/yourusername/sentiment-analysis-rnn.git
+git clone https://github.com/rattanvansh/Sentiment-Analysis-using-RNN.git
 
 ---
 
@@ -198,3 +198,4 @@ python sentiment_rnn.py
 
 **Vansh Rattan**  
 AI/ML Engineering Student
+Srm Institute of Science and Technology
