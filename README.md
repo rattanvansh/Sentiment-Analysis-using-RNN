@@ -157,8 +157,7 @@ sigmoid(output) ≤ 0.5 → Negative
 
 sentiment-analysis-rnn
 
-│  
-├── IMDB Dataset.csv  
+│   
 ├── sentiment_rnn.py  
 ├── README.md  
 └── requirements.txt  
